@@ -4,3 +4,6 @@ welcome to my recipes
 kheer
 pasta
 chicken fry
+
+beans
+pizza
